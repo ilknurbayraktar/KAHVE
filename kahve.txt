@@ -1,2 +1,4 @@
 MALZEMELER 
 1.su
+2.kahve
+3.şeker 
