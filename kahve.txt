@@ -2,5 +2,3 @@ MALZEMELER
 1.su
 2.kahve
 3.şeker 
-4.az biraz tuz ekle 
-5.soda
